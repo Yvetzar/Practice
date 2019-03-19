@@ -1,0 +1,56 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  .navbar {
+    background-color: #02798b;
+    color: white;
+    padding: 5px;
+  }
+  #link {
+    display: inline;
+    padding: 5px;
+  }
+  #link:hover {
+    background-color: white;
+    color: #02798b;
+    cursor: pointer;
+  }
+  #logout{
+      color: white;
+      text-decoration: none;
+  }
+  #logout:hover{
+      background-color: white;
+      color: blue;
+      cursor: pointer;
+  }
+  .links {
+    text-align: right;
+  }
+  .details{
+      background-image: linear-gradient( to right, green, blue);
+      padding: 20px;
+ }
+ #img {
+     border-radius: 50px;
+     box-shadow: 5px 5px 15px black;
+ }
+ .profile-pic {
+     display:inline-block;
+     padding: 20px;
+ }
+ .titles{
+     display: inline-block;
+     color: white; 
+     padding: 20px;
+ }
+ .article{
+   box-shadow: 5px 5px 15px black;
+   margin-left: 100px;
+   margin-right: 100px;
+   padding: 20px;
+ }
+ #title{
+   color:#02798b;
+ }

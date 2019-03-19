@@ -1,0 +1,17 @@
+body {
+    padding:0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.navbar {
+    background-color: #162954;
+    color: white;
+    padding: 0.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+ }
+#navbar-title {
+    margin: 10px;
+}
+.login-block{
+    text-align: center;
+}
